@@ -13,7 +13,7 @@ public class CreateModel : PageModel
     public Category Category {get; set;}
     public CreateModel(ApplicationDbContext db)
     {
-        _db = db;
+        _db = db; //
     }
 
     public void OnGet()
