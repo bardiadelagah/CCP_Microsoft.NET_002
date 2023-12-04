@@ -24,13 +24,13 @@ The folder and files are below:
 ├── rMigrations          # requirements and dependensies
 ├── obj
 ├── Pages                # Include subfolders for each routes, .cshtml and .cshtml.cs filetypes
-└── Properties           # Implementation the alghoritem of article
-└── WWWroot              # Static Files
-└── .gitignore
-└── appsettings.Development.json
-└── appsettings.json
-└── BulkyWebRazor_Temp.csproj
-└── Program.cs
+├── Properties           # Implementation the alghoritem of article
+├── WWWroot              # Static Files
+├── .gitignore
+├── appsettings.Development.json
+├── appsettings.json
+├── BulkyWebRazor_Temp.csproj
+├── Program.cs
 └── README.md
 ```
 
