@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj": {}
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_temp\\BulkyWebRazor_Temp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj": {
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_temp\\BulkyWebRazor_Temp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
+        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_temp\\BulkyWebRazor_Temp.csproj",
         "projectName": "BulkyWebRazor_Temp",
-        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
+        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_temp\\BulkyWebRazor_Temp.csproj",
         "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_Temp\\obj\\",
+        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWebRazor_temp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"

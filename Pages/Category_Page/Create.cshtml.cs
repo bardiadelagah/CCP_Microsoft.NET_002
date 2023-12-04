@@ -3,7 +3,7 @@ using BulkyWebRazor_Temp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BulkyWebRazor_Temp.Pages.Categories;
+namespace BulkyWebRazor_Temp.Pages.Category_Page;
 
 [BindProperties]
 public class CreateModel : PageModel

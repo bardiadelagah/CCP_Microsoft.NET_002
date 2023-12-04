@@ -134,3 +134,4 @@ C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_Temp\o
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_Temp\obj\Debug\net8.0\BulkyWebRazor_Temp.pdb
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_Temp\obj\Debug\net8.0\BulkyWebRazor_Temp.genruntimeconfig.cache
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_Temp\obj\Debug\net8.0\ref\BulkyWebRazor_Temp.dll
+C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_temp\obj\Debug\net8.0\BulkyWebRazor_Temp.sourcelink.json
