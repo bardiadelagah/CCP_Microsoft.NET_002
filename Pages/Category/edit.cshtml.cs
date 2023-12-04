@@ -1,16 +1,16 @@
 using BulkyWebRazor_Temp.Data;
-using BulkyWebRazor_Temp.Models;
+using CategoryDbModel = BulkyWebRazor_Temp.Models.Category;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BulkyWebRazor_Temp.Pages.Category_Page;
+namespace BulkyWebRazor_Temp.Pages.Category;
 
 [BindProperties]
 public class EditModel : PageModel
 {
     private readonly ApplicationDbContext _db;
     //[BindProperty]
-    public Category Category {get; set;}
+    public CategoryDbModel Category {get; set;}
     public EditModel(ApplicationDbContext db)
     {
         _db = db;

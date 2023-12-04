@@ -18,20 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\BulkyWebRazor_Temp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category_Page/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlfUGFnZVxDcmVhdGUuY3NodG1s
+[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category_Page/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlfUGFnZVxEZWxldGUuY3NodG1s
+[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category_Page/edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlfUGFnZVxlZGl0LmNzaHRtbA==
+[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcZWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category_Page/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlfUGFnZVxJbmRleC5jc2h0bWw=
+[C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bardiadelagah/VS Code Projects/Microsoft NET/Bulky/BulkyWebRazor_Temp/Pages/Error.cshtml]

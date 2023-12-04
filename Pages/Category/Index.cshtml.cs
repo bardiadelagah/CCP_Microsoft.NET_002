@@ -1,15 +1,15 @@
 using BulkyWebRazor_Temp.Data;
-using BulkyWebRazor_Temp.Models;
+using CategoryDbModel = BulkyWebRazor_Temp.Models.Category;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BulkyWebRazor_Temp.Pages.Category_Page;
+namespace BulkyWebRazor_Temp.Pages.Category;
 
 public class IndexModel : PageModel
 {
     private readonly ApplicationDbContext _db;
 
-    public List<Category> CattegoryList {get; set;}
+    public List<CategoryDbModel> CattegoryList {get; set;}
     public IndexModel(ApplicationDbContext db)
     {
         _db = db;
