@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3884a180153c57fceb5dacf7f39bb1381e2dbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42862ed921c64f81627327d52a122717224ff5c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
