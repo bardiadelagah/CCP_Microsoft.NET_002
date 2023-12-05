@@ -8,7 +8,7 @@ namespace BulkyWebRazor_Temp.Models
         [Key]
         public int Id {get; set;}
         [Required]
-        [MaxLength(30)]
+        [MaxLength(30,ErrorMessage = "Name must be less than 30 char")]
         [DisplayName("Category Name")]
         public string Name {get; set;}
         [DisplayName("Display Order")]
